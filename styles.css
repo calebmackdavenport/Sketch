@@ -1,0 +1,17 @@
+.units {
+    background-color: black;
+    height: 35px;
+    width: 35px;
+    margin: 2px;
+    display: inline-block;
+}
+
+.units:hover { 
+    background-color: rgba(116, 116, 116, 0.27);
+}
+
+#container {
+    display: block;
+    /* max-width: 500px; */
+    text-align: center;
+}
